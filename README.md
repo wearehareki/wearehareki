@@ -143,9 +143,9 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <table width="100%">
 <tr>
-<th align="left" width="250">Müşteri</th>
-<th align="left" width="250">Proje</th>
-<th align="left" width="200">Disiplin</th>
+<th align="left" width="260">Müşteri</th>
+<th align="left" width="300">Proje</th>
+<th align="left" width="180">Disiplin</th>
 <th align="left" width="100">Yıl</th>
 </tr>
 <tr>
@@ -232,10 +232,10 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <table width="100%">
 <tr>
-<th align="left" width="200">Keşfet</th>
-<th align="left" width="200">Kurumsal</th>
-<th align="left" width="200">Takip Et</th>
-<th align="left" width="200">Lokasyonlar</th>
+<th align="left" width="210">Keşfet</th>
+<th align="left" width="210">Kurumsal</th>
+<th align="left" width="210">Takip Et</th>
+<th align="left" width="210">Lokasyonlar</th>
 </tr>
 <tr>
 <td valign="top">
