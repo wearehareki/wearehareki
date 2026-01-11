@@ -11,9 +11,7 @@
 <br>
 
 <div align="center">
-
-**Biz, kültür ve techne'nin sessiz kesişiminde çalışıyoruz.**
-
+<img src="manifesto.svg" width="840" alt="Biz, kültür ve techne'nin sessiz kesişiminde çalışıyoruz.">
 </div>
 
 <br>
