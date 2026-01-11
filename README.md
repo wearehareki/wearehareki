@@ -3,7 +3,7 @@
 <img src="logo.svg" alt="hareki" width="32" height="32" align="left">
 </a>
 &nbsp;&nbsp;<strong>hareki.</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#yaklaşım"><img src="https://img.shields.io/badge/Yaklaşım-1a1a1a?style=flat-square" alt="Yaklaşım"></a>&nbsp;
 <a href="#indeks"><img src="https://img.shields.io/badge/İndeks-1a1a1a?style=flat-square" alt="İndeks"></a>&nbsp;
 <a href="#iletişim"><img src="https://img.shields.io/badge/İletişim-1a1a1a?style=flat-square" alt="İletişim"></a>
@@ -149,40 +149,28 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 <th align="left" width="100">Yıl</th>
 </tr>
 <tr>
-<td>Noveau Gallery</td>
-<td>Exhibition 09</td>
-<td>Sanat Yönetimi</td>
-<td>2024</td>
+<td>Original</td>
+<td>Kimlik Sistemi</td>
+<td>Marka Kimliği</td>
+<td>2026</td>
 </tr>
 <tr>
-<td>Vestra Foundation</td>
-<td>Cultural Map</td>
-<td>Marka Stratejisi</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Kolektif House</td>
-<td>Digital Workspace</td>
-<td>UI/UX Tasarım</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Base Istanbul</td>
-<td>Artist Series</td>
-<td>İçerik Stratejisi</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Mono Architectural</td>
-<td>Silence in Space</td>
-<td>Görsel Kimlik</td>
-<td>2023</td>
-</tr>
-<tr>
-<td>Atlas Publishing</td>
-<td>The New Archive</td>
+<td>Sokak Kitap ve Kahve</td>
+<td>Platform Geliştirme</td>
 <td>Web Geliştirme</td>
-<td>2023</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>Mona Psikoloji</td>
+<td>Dijital Platform</td>
+<td>Dijital Deneyim</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>Zink</td>
+<td>Platform Arayüzü</td>
+<td>UI/UX Tasarım</td>
+<td>2025</td>
 </tr>
 </table>
 
@@ -194,6 +182,8 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 ## Altyapı
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">&nbsp;
@@ -201,6 +191,8 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+</div>
 
 <br>
 
