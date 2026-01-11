@@ -54,12 +54,33 @@ Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle ba�
 
 ### Disiplinler
 
-| Strateji | Tasarım | Teknoloji |
-|:---------|:--------|:----------|
-| Marka Stratejisi | Marka Kimliği | Web Geliştirme |
-| Pazar Araştırması | UI/UX Tasarım | Kod Geliştirme |
-| İçerik Stratejisi | Sanat Yönetimi | Dijital Deneyim |
-| Sosyal Medya Stratejisi | Editoryal Tasarım | Prototipleme |
+<table width="100%">
+<tr>
+<th align="left" width="33%">Strateji</th>
+<th align="left" width="33%">Tasarım</th>
+<th align="left" width="33%">Teknoloji</th>
+</tr>
+<tr>
+<td valign="top">
+Marka Stratejisi<br>
+Pazar Araştırması<br>
+İçerik Stratejisi<br>
+Sosyal Medya Stratejisi
+</td>
+<td valign="top">
+Marka Kimliği<br>
+UI/UX Tasarım<br>
+Sanat Yönetimi<br>
+Editoryal Tasarım
+</td>
+<td valign="top">
+Web Geliştirme<br>
+Kod Geliştirme<br>
+Dijital Deneyim<br>
+Prototipleme
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -93,9 +114,24 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 ## Metodoloji
 
-| Strateji | Tasarım | Teknoloji |
-|:---|:---|:---|
-| ***Belirsizliği netleştiriyoruz.***<br><br>Sürecin en başındaki kaos bizim oyun alanımızdır. Veriyle sezgiyi birleştiririz. | ***Düşünceye biçim veriyoruz.***<br><br>Fonksiyon estetiği takip etmez; estetik fonksiyonun kendisidir. | ***Görünmez altyapıyı inşa ediyoruz.***<br><br>En iyi teknoloji, varlığını hissettirmeyendir. Pürüzsüz, hızlı, güvenli. |
+<table width="100%">
+<tr>
+<th align="left" width="33%">Strateji</th>
+<th align="left" width="33%">Tasarım</th>
+<th align="left" width="33%">Teknoloji</th>
+</tr>
+<tr>
+<td valign="top">
+<strong><em>Belirsizliği netleştiriyoruz.</em></strong><br><br>Sürecin en başındaki kaos bizim oyun alanımızdır. Veriyle sezgiyi birleştiririz.
+</td>
+<td valign="top">
+<strong><em>Düşünceye biçim veriyoruz.</em></strong><br><br>Fonksiyon estetiği takip etmez; estetik fonksiyonun kendisidir.
+</td>
+<td valign="top">
+<strong><em>Görünmez altyapıyı inşa ediyoruz.</em></strong><br><br>En iyi teknoloji, varlığını hissettirmeyendir. Pürüzsüz, hızlı, güvenli.
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -105,14 +141,50 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 ## İndeks
 
-| Müşteri | Proje | Disiplin | Yıl |
-|:--------|:------|:---------|:----|
-| Noveau Gallery | Exhibition 09 | Sanat Yönetimi | 2024 |
-| Vestra Foundation | Cultural Map | Marka Stratejisi | 2024 |
-| Kolektif House | Digital Workspace | UI/UX Tasarım | 2024 |
-| Base Istanbul | Artist Series | İçerik Stratejisi | 2024 |
-| Mono Architectural | Silence in Space | Görsel Kimlik | 2023 |
-| Atlas Publishing | The New Archive | Web Geliştirme | 2023 |
+<table width="100%">
+<tr>
+<th align="left" width="30%">Müşteri</th>
+<th align="left" width="35%">Proje</th>
+<th align="left" width="20%">Disiplin</th>
+<th align="left" width="15%">Yıl</th>
+</tr>
+<tr>
+<td>Noveau Gallery</td>
+<td>Exhibition 09</td>
+<td>Sanat Yönetimi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Vestra Foundation</td>
+<td>Cultural Map</td>
+<td>Marka Stratejisi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Kolektif House</td>
+<td>Digital Workspace</td>
+<td>UI/UX Tasarım</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Base Istanbul</td>
+<td>Artist Series</td>
+<td>İçerik Stratejisi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Mono Architectural</td>
+<td>Silence in Space</td>
+<td>Görsel Kimlik</td>
+<td>2023</td>
+</tr>
+<tr>
+<td>Atlas Publishing</td>
+<td>The New Archive</td>
+<td>Web Geliştirme</td>
+<td>2023</td>
+</tr>
+</table>
 
 <br>
 
