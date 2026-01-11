@@ -56,9 +56,9 @@ Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle ba�
 
 <table width="100%">
 <tr>
-<th align="left" width="33%">Strateji</th>
-<th align="left" width="33%">Tasarım</th>
-<th align="left" width="33%">Teknoloji</th>
+<th align="left" width="280">Strateji</th>
+<th align="left" width="280">Tasarım</th>
+<th align="left" width="280">Teknoloji</th>
 </tr>
 <tr>
 <td valign="top">
@@ -116,9 +116,9 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <table width="100%">
 <tr>
-<th align="left" width="33%">Strateji</th>
-<th align="left" width="33%">Tasarım</th>
-<th align="left" width="33%">Teknoloji</th>
+<th align="left" width="280">Strateji</th>
+<th align="left" width="280">Tasarım</th>
+<th align="left" width="280">Teknoloji</th>
 </tr>
 <tr>
 <td valign="top">
@@ -143,10 +143,10 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <table width="100%">
 <tr>
-<th align="left" width="30%">Müşteri</th>
-<th align="left" width="35%">Proje</th>
-<th align="left" width="20%">Disiplin</th>
-<th align="left" width="15%">Yıl</th>
+<th align="left" width="250">Müşteri</th>
+<th align="left" width="250">Proje</th>
+<th align="left" width="200">Disiplin</th>
+<th align="left" width="100">Yıl</th>
 </tr>
 <tr>
 <td>Noveau Gallery</td>
