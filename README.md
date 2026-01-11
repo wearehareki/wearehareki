@@ -1,325 +1,155 @@
-<!--  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  -->
-<!--                                                                                                            -->
-<!--                                              H A R E K I                                                   -->
-<!--                                                                                                            -->
-<!--                                       Culture-aware digital systems                                        -->
-<!--                                                                                                            -->
-<!--  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  -->
-
 <div align="center">
 
 <br><br>
 
-<table>
-<tr>
-<td align="left" width="33%"><sub>ISSUE 001</sub></td>
-<td align="center" width="34%"><sub>2026</sub></td>
-<td align="right" width="33%"><sub>ISTANBUL</sub></td>
-</tr>
-</table>
-
-<br>
-
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██║
-███████║███████║██████╔╝█████╗  █████╔╝ ██║
-██╔══██║██╔══██║██╔══██╗██╔══╝  ██╔═██╗ ██║
-██║  ██║██║  ██║██║  ██║███████╗██║  ██╗██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
-```
+# hareki.
 
 <br>
 
 </div>
 
-<table>
-<tr>
-<td width="100%" align="center">
-
-*Culture-aware digital systems.*  
-*Built quietly. Designed to last.*
-
-</td>
-</tr>
-</table>
+---
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<sub>KURUMSAL</sub>
 
-<br><br>
+## Hakkımızda
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                              EDITORIAL                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+**Hareki, 2026'da dijital dünyanın gürültüsüne karşı bir tepki olarak kuruldu.**
+
+<br>
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="65%" valign="top">
+Biz, markaların ve kurumların hikayelerini anlatırken sadelik ve derinliği ön planda tutan bağımsız bir kreatif stüdyoyuz. Kalabalık internet ortamında, bağıran tasarımların değil, fısıldayan ve akılda kalan deneyimlerin gücüne inanıyoruz.
 
-### Editorial
-
-<br>
-
-**W**e operate at the intersection of culture and technology. In an industry obsessed with velocity, we choose depth. Every interface we build carries intention—not just function. We don't chase trends; we study them, then decide what endures.
-
-This is not a portfolio. This is a reference document. A map of how we think, what we value, and where our work lives.
-
-<br>
-
-> *"The details are not the details. They make the design."*
-
-<br>
+Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle başlarız. Tasarımımız zanaatkardır; her pikseli ve boşluğu bir anlam ifade edecek şekilde yerleştiririz. Teknolojimiz ise görünmezdir; karmaşık altyapıları pürüzsüz kullanıcı deneyimlerine dönüştürürüz.
 
 </td>
-
 <td width="5%"></td>
+<td width="35%" valign="top">
 
-<td width="30%" valign="top">
+**Disiplinler**
 
-<br><br>
-
-<table>
-<tr><td align="right"><sub>DISCIPLINE</sub></td></tr>
-<tr><td align="right"><code>Interface Engineering</code></td></tr>
-<tr><td align="right"><code>Design Systems</code></td></tr>
-<tr><td align="right"><code>Brand Identity</code></td></tr>
-<tr><td align="right"><code>Motion Design</code></td></tr>
-<tr><td align="right"><code>Typography</code></td></tr>
-</table>
-
-<br>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                              DOCTRINE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<details open>
-<summary><strong>Doctrine</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="25%" align="center">
-<br>
-<strong>I</strong>
-<br><br>
-<sub>SILENCE<br>OVER<br>NOISE</sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<strong>II</strong>
-<br><br>
-<sub>SYSTEMS<br>OVER<br>PAGES</sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<strong>III</strong>
-<br><br>
-<sub>CRAFT<br>OVER<br>VELOCITY</sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<strong>IV</strong>
-<br><br>
-<sub>LONGEVITY<br>OVER<br>TRENDS</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                              INFRASTRUCTURE                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<details open>
-<summary><strong>Infrastructure</strong></summary>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-</a>
-<br><sub>TypeScript</sub><br><br>
-</td>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-</a>
-<br><sub>React</sub><br><br>
-</td>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
-</a>
-<br><sub>Next.js</sub><br><br>
-</td>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-</a>
-<br><sub>Tailwind</sub><br><br>
-</td>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-</a>
-<br><sub>Node.js</sub><br><br>
-</td>
-<td align="center" width="96">
-<br>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-</a>
-<br><sub>Postgres</sub><br><br>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                              INDEX                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<details open>
-<summary><strong>Index</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-```
-┌─────────────────────────────┐
-│                             │
-│         HAREKI.COM          │
-│                             │
-│      ▪ Brand System ▪       │
-│                             │
-└─────────────────────────────┘
-```
-
-<sub>[View Project →](https://hareki.com)</sub>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-```
-┌─────────────────────────────┐
-│                             │
-│          INTERNAL           │
-│                             │
-│   ▪ Component Library ▪     │
-│                             │
-└─────────────────────────────┘
-```
-
-<sub>Coming Soon</sub>
-
-</div>
+<sub>Marka Stratejisi</sub><br>
+<sub>Pazar Araştırması</sub><br>
+<sub>İçerik Stratejisi</sub><br>
+<sub>Sosyal Medya Stratejisi</sub><br>
+<sub>Marka Kimliği</sub><br>
+<sub>UI/UX Tasarım</sub><br>
+<sub>Sanat Yönetimi</sub><br>
+<sub>Editoryal Tasarım</sub><br>
+<sub>Web Geliştirme</sub><br>
+<sub>Kod Geliştirme</sub><br>
+<sub>Dijital Dönüşüm</sub><br>
+<sub>Prototipleme</sub>
 
 </td>
 </tr>
 </table>
 
+<br><br>
+
+---
+
 <br>
 
-</details>
+<sub>YAKLAŞIM</sub>
 
-<br>
+## Bir Projeye Başlamadan Önce
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Bir projeye başlamadan önce ilk yaptığımız şey tasarım değildir. Önce dururuz. Dinleriz. İçinde bulunduğu sektörü, o sektörün dilini ve reflekslerini anlamaya çalışırız. Markanın geçmişine, bugüne kadar ne söylediğine ve belki daha önemlisi neyi hiç söylemediğine bakarız. Çünkü iyi bir iş, doğru sorular sormadan başlamaz.
+
+Bu hazırlık süreci, piksel yerleştirmeden önce yapılan en kritik iştir. Çoğu projede ilk günler tasarımdan bilinçli olarak uzaktır; eskiz yoktur, arayüz yoktur, renk yoktur. Bunun yerine düşünme vardır. Acele edilmez. Çünkü ancak neyin gerçekten gerekli olduğunu anladığımızda, neyi dışarıda bırakacağımıza da karar verebiliriz.
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                              COLOPHON                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+---
+
+<br>
+
+<sub>FİLTRE</sub>
+
+## Herkes İçin Çalışmıyoruz
+
+Herkes için çalışmıyoruz; bunu bir ayrıcalık olarak değil, bir netlik olarak görüyoruz. Acil teslimatlara, bitmeyen revizyon döngülerine ya da yalnızca trendlere yelişme beklentisi olan projeler için doğru adres olmayabiliriz. Aynı şekilde, sadece "daha güzel görünsün" talebiyle başlayan işlere de mesafeli dururuz.
+
+Bizim için en iyi işler, anlatacak bir hikayesi olan ve bu hikayeye zaman tanımayı kabul eden markalarla ortaya çıkar. Niyetin net, sürecin sakin olduğu yerlerde çalışırız. Çünkü anlamlı sonuçlar, hızdan çok dikkatle; gösterişten çok kararlılıkla şekillenir.
+
+<br><br>
+
+---
+
+<br>
+
+<sub>İLKELER</sub>
+
+## Nasıl Düşünüyoruz
+
+<br>
+
+**Sessizlik, gürültüden önce gelir.**  
+Bir arayüzün en güçlü yanı, söylemediği şeylerdir.
+
+**Sistemler, sayfalardan önce gelir.**  
+Tek bir sayfa değil, tutarlı bir ekosistem inşa ederiz.
+
+**Zanaat, hızdan önce gelir.**  
+Hız bir metriktir. Kalite bir duruştur.
+
+**Kalıcılık, trendlerden önce gelir.**  
+İki yıl sonra eskimeyecek işler yaparız.
+
+<br><br>
+
+---
+
+<br>
+
+<sub>ALTYAPI</sub>
+
+## Teknoloji
+
+<br>
+
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Node.js` · `PostgreSQL` · `Vercel`
+
+<br><br>
+
+---
+
+<br>
+
+<sub>İNDEKS</sub>
+
+## Seçili Çalışmalar
+
+<br>
+
+**hareki.com** — Marka sistemi  
+**[Gizli]** — Kurumsal web deneyimi  
+**[Gizli]** — Dijital ürün tasarımı
+
+<br><br>
+
+---
+
+<br>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
 <sub>
-<a href="https://hareki.com">hareki.com</a>
+
+[hareki.com](https://hareki.com) · [hello@hareki.com](mailto:hello@hareki.com) · İstanbul
+
 </sub>
-</td>
-<td width="34%" align="center">
-<sub>
-<a href="mailto:hello@hareki.com">hello@hareki.com</a>
-</sub>
-</td>
-<td width="33%" align="center">
-<sub>Istanbul, Turkey</sub>
-</td>
-</tr>
-</table>
 
-<br>
+<br><br>
 
-```
-                              ·  ·  ·
-```
-
-<br>
-
-<sub>This document is a system artifact. It updates when there is something to say.</sub>
+<sub>Bu doküman bir sistem çıktısıdır. Söylenecek bir şey olduğunda güncellenir.</sub>
 
 <br><br>
 
