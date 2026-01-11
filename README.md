@@ -242,9 +242,10 @@ Gizlilik<br>
 Yasal Uyarı
 </td>
 <td valign="top">
-<a href="https://instagram.com/wearehareki">Instagram</a><br>
+<a href="https://linkedin.com/company/hareki">LinkedIn</a><br>
+<a href="https://github.com/wearehareki">GitHub</a><br>
 <a href="https://twitter.com/wearehareki">Twitter</a><br>
-<a href="https://linkedin.com/company/hareki">LinkedIn</a>
+<a href="https://instagram.com/wearehareki">Instagram</a>
 </td>
 <td valign="top">
 İstanbul<br>
