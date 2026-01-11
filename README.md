@@ -1,47 +1,35 @@
-<div align="center">
-
-<br>
-
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="middle">
 <a href="https://hareki.com">
-<img src="logo.svg" alt="hareki" width="48" height="48">
+<img src="logo.svg" alt="hareki" width="36" height="36" align="left">
 </a>
+&nbsp;&nbsp;
+<strong>hareki.</strong>
 </td>
-<td>
-<a href="https://hareki.com">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=140&height=48&lines=hareki.">
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=1a1a1a&vCenter=true&width=140&height=48&lines=hareki.">
-<img alt="hareki." src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=140&height=48&lines=hareki.">
-</picture>
-</a>
+<td width="50%" align="right" valign="middle">
+<a href="#yaklaşım"><img src="https://img.shields.io/badge/Yaklaşım-1a1a1a?style=flat-square" alt="Yaklaşım"></a>&nbsp;
+<a href="#indeks"><img src="https://img.shields.io/badge/İndeks-1a1a1a?style=flat-square" alt="İndeks"></a>&nbsp;
+<a href="#iletişim"><img src="https://img.shields.io/badge/İletişim-1a1a1a?style=flat-square" alt="İletişim"></a>
 </td>
 </tr>
 </table>
 
 <br>
 
-Kültür, teknoloji ve insan hikayelerinin kesişim noktası.
+<div align="center">
 
-<br><br>
-
-<a href="#yaklaşım"><img src="https://img.shields.io/badge/Yaklaşım-1a1a1a?style=flat-square" alt="Yaklaşım"></a>&nbsp;&nbsp;
-<a href="#indeks"><img src="https://img.shields.io/badge/İndeks-1a1a1a?style=flat-square" alt="İndeks"></a>&nbsp;&nbsp;
-<a href="#iletişim"><img src="https://img.shields.io/badge/İletişim-1a1a1a?style=flat-square" alt="İletişim"></a>
-
-<br><br>
-
----
+**Biz, kültür ve techne'nin sessiz kesişiminde çalışıyoruz.**
 
 </div>
 
 <br>
 
-## Yaklaşım
+---
 
-**Biz, kültür ve techne'nin sessiz kesişiminde çalışıyoruz.**
+<br>
+
+## Yaklaşım
 
 Hareki, sessizliğin dilini konuşan bir kreatif ajanstır. Gerçek etkinin bağırmasına gerek olmadığına inanıyoruz. O, yankılanır. Tıpkı iyi ciltlenmiş bir kitap veya kusursuz işleyen bir kod satırı gibi.
 
@@ -245,19 +233,31 @@ Prototipleme
 
 <br>
 
+<div align="center">
+
+<a href="https://hareki.com/contact">
+  <img src="https://img.shields.io/badge/Bir_Konuşma_Başlat-EA3B25?style=for-the-badge" alt="İletişime Geç">
+</a>
+
+</div>
+
+<br>
+
 ---
 
 <br>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
 **Keşfet**
 
 Yaklaşım  
 İndeks  
 İletişim
+
+<br>
 
 **Kurumsal**
 
@@ -267,7 +267,7 @@ Gizlilik
 Yasal Uyarı
 
 </td>
-<td width="34%" valign="top">
+<td width="34%" valign="top" align="left">
 
 **Takip Et**
 
@@ -275,20 +275,26 @@ Yasal Uyarı
 <a href="https://twitter.com/wearehareki"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a><br>
 <a href="https://linkedin.com/company/hareki"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<br>
+
 **E-posta**
 
 hello@hareki.com
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
 **Lokasyonlar**
 
 Kavala Köşkü  
 Kadıköy, İstanbul
 
+<br>
+
 Grand Pera  
 Beyoğlu, İstanbul
+
+<br>
 
 London Mayfair  
 London, UK
