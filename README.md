@@ -1,51 +1,236 @@
+<!--  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  -->
+<!--                                                                                                            -->
+<!--                                              H A R E K I                                                   -->
+<!--                                                                                                            -->
+<!--                                       Culture-aware digital systems                                        -->
+<!--                                                                                                            -->
+<!--  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  -->
+
 <div align="center">
 
+<br><br>
+
+<table>
+<tr>
+<td align="left" width="33%"><sub>ISSUE 001</sub></td>
+<td align="center" width="34%"><sub>2026</sub></td>
+<td align="right" width="33%"><sub>ISTANBUL</sub></td>
+</tr>
+</table>
+
 <br>
 
-<a href="https://hareki.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=55&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=HAREKI">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=55&duration=1&pause=1000&color=111111&center=true&vCenter=true&multiline=false&width=600&height=80&lines=HAREKI">
-    <img alt="HAREKI" src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=55&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=HAREKI" />
-  </picture>
-</a>
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██║
+███████║███████║██████╔╝█████╗  █████╔╝ ██║
+██╔══██║██╔══██║██╔══██╗██╔══╝  ██╔═██╗ ██║
+██║  ██║██║  ██║██║  ██║███████╗██║  ██╗██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
+```
 
 <br>
 
-<a href="https://hareki.com">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-111111?style=flat-square&labelColor=333333" alt="Status" />
-</a>
-&nbsp;
-<a href="https://hareki.com">
-  <img src="https://img.shields.io/badge/MODE-SYSTEM%20ARCHITECTS-111111?style=flat-square&labelColor=333333" alt="Mode" />
-</a>
-&nbsp;
-<a href="https://hareki.com">
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20EXPERIENCE-111111?style=flat-square&labelColor=333333" alt="Focus" />
-</a>
+</div>
 
-<br><br><br>
+<table>
+<tr>
+<td width="100%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=AAAAAA&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Culture-aware+digital+systems.;Built+quietly.+Designed+to+last.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=333333&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Culture-aware+digital+systems.;Built+quietly.+Designed+to+last.">
-  <img alt="Manifesto" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=AAAAAA&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Culture-aware+digital+systems.;Built+quietly.+Designed+to+last." />
-</picture>
+*Culture-aware digital systems.*  
+*Built quietly. Designed to last.*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br><br>
 
-<code>Interface</code> &nbsp; 
-<code>Systems</code> &nbsp; 
-<code>Brand</code> &nbsp; 
-<code>Motion</code>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                              EDITORIAL                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<br><br><br>
+<table>
+<tr>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="" width="100%">
+<td width="65%" valign="top">
+
+### Editorial
+
+<br>
+
+**W**e operate at the intersection of culture and technology. In an industry obsessed with velocity, we choose depth. Every interface we build carries intention—not just function. We don't chase trends; we study them, then decide what endures.
+
+This is not a portfolio. This is a reference document. A map of how we think, what we value, and where our work lives.
+
+<br>
+
+> *"The details are not the details. They make the design."*
+
+<br>
+
+</td>
+
+<td width="5%"></td>
+
+<td width="30%" valign="top">
 
 <br><br>
 
-<h3>Work</h3>
+<table>
+<tr><td align="right"><sub>DISCIPLINE</sub></td></tr>
+<tr><td align="right"><code>Interface Engineering</code></td></tr>
+<tr><td align="right"><code>Design Systems</code></td></tr>
+<tr><td align="right"><code>Brand Identity</code></td></tr>
+<tr><td align="right"><code>Motion Design</code></td></tr>
+<tr><td align="right"><code>Typography</code></td></tr>
+</table>
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                              DOCTRINE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><strong>Doctrine</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br>
+<strong>I</strong>
+<br><br>
+<sub>SILENCE<br>OVER<br>NOISE</sub>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<strong>II</strong>
+<br><br>
+<sub>SYSTEMS<br>OVER<br>PAGES</sub>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<strong>III</strong>
+<br><br>
+<sub>CRAFT<br>OVER<br>VELOCITY</sub>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<strong>IV</strong>
+<br><br>
+<sub>LONGEVITY<br>OVER<br>TRENDS</sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                              INFRASTRUCTURE                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><strong>Infrastructure</strong></summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+</a>
+<br><sub>TypeScript</sub><br><br>
+</td>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+</a>
+<br><sub>React</sub><br><br>
+</td>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+</a>
+<br><sub>Next.js</sub><br><br>
+</td>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+</a>
+<br><sub>Tailwind</sub><br><br>
+</td>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+</a>
+<br><sub>Node.js</sub><br><br>
+</td>
+<td align="center" width="96">
+<br>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+</a>
+<br><sub>Postgres</sub><br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+</details>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                              INDEX                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><strong>Index</strong></summary>
 
 <br>
 
@@ -54,53 +239,88 @@
 <td width="50%" valign="top">
 
 <div align="center">
-  <a href="https://hareki.com">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=120&text=HAREKI.COM&fontColor=ffffff&fontSize=20&desc=Brand%20System&descSize=12&descAlign=50&descAlignY=65" width="100%" alt="Hareki.com" />
-  </a>
+
+```
+┌─────────────────────────────┐
+│                             │
+│         HAREKI.COM          │
+│                             │
+│      ▪ Brand System ▪       │
+│                             │
+└─────────────────────────────┘
+```
+
+<sub>[View Project →](https://hareki.com)</sub>
+
 </div>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=120&text=INTERNAL&fontColor=ffffff&fontSize=20&desc=Component%20Architecture&descSize=12&descAlign=50&descAlignY=65" width="100%" alt="Internal" />
-  </a>
+
+```
+┌─────────────────────────────┐
+│                             │
+│          INTERNAL           │
+│                             │
+│   ▪ Component Library ▪     │
+│                             │
+└─────────────────────────────┘
+```
+
+<sub>Coming Soon</sub>
+
 </div>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="" width="100%">
-
-<br><br>
-
-<h3>Stack</h3>
+</details>
 
 <br>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,vercel,figma&theme=dark" />
-</a>
-
-<br><br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br><br>
 
-<a href="mailto:hello@hareki.com">
-  <img src="https://img.shields.io/badge/Contact-hello%40hareki.com-111111?style=flat-square&logo=minutemailer&logoColor=white" />
-</a>
-<a href="https://hareki.com">
-  <img src="https://img.shields.io/badge/Web-hareki.com-111111?style=flat-square&logo=google-earth&logoColor=white" />
-</a>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                              COLOPHON                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<sub>
+<a href="https://hareki.com">hareki.com</a>
+</sub>
+</td>
+<td width="34%" align="center">
+<sub>
+<a href="mailto:hello@hareki.com">hello@hareki.com</a>
+</sub>
+</td>
+<td width="33%" align="center">
+<sub>Istanbul, Turkey</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+```
+                              ·  ·  ·
+```
+
+<br>
+
+<sub>This document is a system artifact. It updates when there is something to say.</sub>
 
 <br><br>
-
-<sub>ISTANBUL</sub>
 
 </div>
