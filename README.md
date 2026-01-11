@@ -2,13 +2,19 @@
 
 <br>
 
+<a href="https://hareki.com">
+  <img src="logo.svg" alt="hareki" width="80" height="80">
+</a>
+
+<br><br>
+
 # hareki.
 
 Kültür, teknoloji ve insan hikayelerinin kesişim noktası.
 
 <br>
 
-[Yaklaşım](#yaklaşım) · [İndeks](#i̇ndeks) · [İletişim](#i̇letişim)
+[Yaklaşım](#yaklaşım) · [İndeks](#indeks) · [İletişim](#iletişim)
 
 <br>
 
@@ -39,44 +45,109 @@ Dijital zanaatkarlığa entelektüel bir yaklaşım. Sadece web siteleri veya ma
 
 <br>
 
+## Hakkımızda
+
+**Hareki, 2026'da, dijital dünyanın gürültüsüne karşı bir tepki olarak kuruldu.**
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+Biz, markaların ve kurumların hikayelerini anlatırken sadelik ve derinliği ön planda tutan bağımsız bir kreatif stüdyoyuz. Kalabalık internet ortamında, bağıran tasarımların değil, fısıldayan ve akılda kalan deneyimlerin gücüne inanıyoruz.
+
+Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle başlarız. Tasarımımız zanaatkardır; her pikseli ve boşluğu bir anlam ifade edecek şekilde yerleştiririz. Teknolojimiz ise görünmezdir; karmaşık altyapıları pürüzsüz kullanıcı deneyimlerine dönüştürürüz.
+
+</td>
+<td width="5%"></td>
+<td width="30%" valign="top">
+
+**Disiplinler**
+
+Marka Stratejisi  
+Pazar Araştırması  
+İçerik Stratejisi  
+Sosyal Medya Stratejisi  
+Marka Kimliği  
+UI/UX Tasarım  
+Sanat Yönetimi  
+Editoryal Tasarım  
+Web Geliştirme  
+Kod Geliştirme  
+Dijital Deneyim  
+Prototipleme
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## Bir Projeye Başlamadan Önce
+
+Bir projeye başlamadan önce ilk yaptığımız şey tasarım değildir. Önce dururuz. Dinleriz. İçinde bulunduğu sektörü, o sektörün dilini ve reflekslerini anlamaya çalışırız. Markanın geçmişine, bugüne kadar ne söylediğine ve belki daha önemlisi neyi hiç söylemediğine bakarız. Çünkü iyi bir iş, doğru sorular sorulmadan başlamaz.
+
+Bu hazırlık süreci, piksel yerleştirmeden önce yapılan en kritik iştir. Çoğu projede ilk günler tasarımdan bilinçli olarak uzaktır; eskiz yoktur, arayüz yoktur, renk yoktur. Bunun yerine düşünme vardır. Acele edilmez. Çünkü ancak neyin gerçekten gerekli olduğunu anladığımızda, neyi dışarıda bırakacağımıza da karar verebiliriz.
+
+<br>
+
+---
+
+<br>
+
+## Herkes İçin Çalışmıyoruz
+
+Herkes için çalışmıyoruz; bunu bir ayrıcalık olarak değil, bir netlik olarak görüyoruz. Acil teslimatlar, bitmeyen revizyon döngüleri ya da yalnızca trendlere yetişme beklentisi olan projeler için doğru adres olmayabiliriz. Aynı şekilde, sadece "daha güzel görünsün" talebiyle başlayan işlere de mesafeli dururuz.
+
+Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman tanımayı kabul eden markalarla ortaya çıkar. Niyetin net, sürecin sakin olduğu yerlerde çalışırız. Çünkü anlamlı sonuçlar, hızdan çok dikkatle; gösterişten çok kararlılıkla şekillenir.
+
+<br>
+
+---
+
+<br>
+
 ## Metodoloji
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### Strateji
+**Strateji**
 
 *Belirsizliği netleştiriyoruz.*
 
-<sub>Marka Stratejisi</sub><br>
-<sub>Pazar Araştırması</sub><br>
-<sub>İçerik Stratejisi</sub><br>
-<sub>Kültürel İçgörü</sub>
+Marka Stratejisi  
+Pazar Araştırması  
+İçerik Stratejisi  
+Sosyal Medya Stratejisi
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-### Tasarım
+**Tasarım**
 
 *Düşünceye biçim veriyoruz.*
 
-<sub>Görsel Kimlik</sub><br>
-<sub>UI/UX Tasarım</sub><br>
-<sub>Sanat Yönetimi</sub><br>
-<sub>Editoryal Tasarım</sub>
+Marka Kimliği  
+UI/UX Tasarım  
+Sanat Yönetimi  
+Editoryal Tasarım
 
 </td>
 <td width="33%" valign="top">
 
-### Teknoloji
+**Teknoloji**
 
 *Görünmez altyapıyı inşa ediyoruz.*
 
-<sub>Web Geliştirme</sub><br>
-<sub>Yaratıcı Kodlama</sub><br>
-<sub>Dijital Deneyim</sub><br>
-<sub>Prototipleme</sub>
+Web Geliştirme  
+Kod Geliştirme  
+Dijital Deneyim  
+Prototipleme
 
 </td>
 </tr>
@@ -90,28 +161,50 @@ Dijital zanaatkarlığa entelektüel bir yaklaşım. Sadece web siteleri veya ma
 
 ## İndeks
 
-| Müşteri | Proje | Disiplin | Yıl |
-|:--------|:------|:---------|:----|
-| Noveau Gallery | Exhibition 09 | Sanat Yönetimi | 2024 |
-| Vestra Foundation | Cultural Map | Marka Stratejisi | 2024 |
-| Kolektif House | Digital Workspace | UI/UX Tasarım | 2024 |
-| Base Istanbul | Artist Series | İçerik Stratejisi | 2024 |
-| Mono Architectural | Silence in Space | Görsel Kimlik | 2023 |
-| Atlas Publishing | The New Archive | Web Geliştirme | 2023 |
-
-<br>
-
----
-
-<br>
-
-## Hakkımızda
-
-**Hareki, 2024 yılında İstanbul'da, dijital dünyanın gürültüsüne karşı bir tepki olarak kuruldu.**
-
-Biz, markaların ve kurumların hikayelerini anlatırken sadelik ve derinliği ön planda tutan bağımsız bir kreatif stüdyoyuz. Kalabalık internet ortamında, bağıran tasarımların değil, fısıldayan ve akılda kalan deneyimlerin gücüne inanıyoruz.
-
-Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle başlarız. Tasarımımız zanaatkardır; her pikseli ve boşluğu bir anlam ifade edecek şekilde yerleştiririz. Teknolojimiz ise görünmezdir; karmaşık altyapıları pürüzsüz kullanıcı deneyimlerine dönüştürürüz.
+<table width="100%">
+<tr>
+<th align="left" width="30%">Müşteri</th>
+<th align="left" width="35%">Proje</th>
+<th align="left" width="20%">Disiplin</th>
+<th align="left" width="15%">Yıl</th>
+</tr>
+<tr>
+<td>Noveau Gallery</td>
+<td>Exhibition 09</td>
+<td>Sanat Yönetimi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Vestra Foundation</td>
+<td>Cultural Map</td>
+<td>Marka Stratejisi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Kolektif House</td>
+<td>Digital Workspace</td>
+<td>UI/UX Tasarım</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Base Istanbul</td>
+<td>Artist Series</td>
+<td>İçerik Stratejisi</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Mono Architectural</td>
+<td>Silence in Space</td>
+<td>Görsel Kimlik</td>
+<td>2023</td>
+</tr>
+<tr>
+<td>Atlas Publishing</td>
+<td>The New Archive</td>
+<td>Web Geliştirme</td>
+<td>2023</td>
+</tr>
+</table>
 
 <br>
 
@@ -137,26 +230,21 @@ Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle ba�
 
 <br>
 
-**E-posta:** [hello@hareki.com](mailto:hello@hareki.com)  
-**Web:** [hareki.com](https://hareki.com)
-
-<br>
-
 ---
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Keşfet
+**Keşfet**
 
 [Yaklaşım](#yaklaşım)  
-[İndeks](#i̇ndeks)  
-[İletişim](#i̇letişim)
+[İndeks](#indeks)  
+[İletişim](#iletişim)
 
-### Kurumsal
+**Kurumsal**
 
 [Hakkımızda](#hakkımızda)  
 [Kariyer](https://hareki.com/careers)  
@@ -164,19 +252,31 @@ Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle ba�
 [Yasal Uyarı](https://hareki.com/legal)
 
 </td>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
-### Takip Et
+**Takip Et**
 
 [Instagram](https://instagram.com/wearehareki)  
 [Twitter](https://twitter.com/wearehareki)  
 [LinkedIn](https://linkedin.com/company/hareki)
 
-### Lokasyonlar
+**E-posta**
 
-**Kavala Köşkü** — Kadıköy, İstanbul  
-**Grand Pera** — Beyoğlu, İstanbul  
-**London Mayfair** — London, UK
+[hello@hareki.com](mailto:hello@hareki.com)
+
+</td>
+<td width="33%" valign="top">
+
+**Lokasyonlar**
+
+Kavala Köşkü  
+Kadıköy, İstanbul
+
+Grand Pera  
+Beyoğlu, İstanbul
+
+London Mayfair  
+London, UK
 
 </td>
 </tr>
@@ -192,7 +292,7 @@ Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle ba�
 
 [hello@hareki.com](mailto:hello@hareki.com)
 
-<sub>© 2024 Hareki · Est. 2024 · İstanbul</sub>
+<sub>© 2026 Hareki · Est. 2026 · İstanbul</sub>
 
 <br>
 
