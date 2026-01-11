@@ -50,7 +50,16 @@ Biz, markaların ve kurumların hikayelerini anlatırken sadelik ve derinliği �
 
 Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle başlarız. Tasarımımız zanaatkardır; her pikseli ve boşluğu bir anlam ifade edecek şekilde yerleştiririz. Teknolojimiz ise görünmezdir; karmaşık altyapıları pürüzsüz kullanıcı deneyimlerine dönüştürürüz.
 
-**Disiplinler:** Marka Stratejisi · Pazar Araştırması · İçerik Stratejisi · Sosyal Medya Stratejisi · Marka Kimliği · UI/UX Tasarım · Sanat Yönetimi · Editoryal Tasarım · Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
+<br>
+
+### Disiplinler
+
+| Strateji | Tasarım | Teknoloji |
+|:---------|:--------|:----------|
+| Marka Stratejisi | Marka Kimliği | Web Geliştirme |
+| Pazar Araştırması | UI/UX Tasarım | Kod Geliştirme |
+| İçerik Stratejisi | Sanat Yönetimi | Dijital Deneyim |
+| Sosyal Medya Stratejisi | Editoryal Tasarım | Prototipleme |
 
 <br>
 
@@ -84,14 +93,9 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 ## Metodoloji
 
-**Strateji** — *Belirsizliği netleştiriyoruz.*  
-Marka Stratejisi · Pazar Araştırması · İçerik Stratejisi · Sosyal Medya Stratejisi
-
-**Tasarım** — *Düşünceye biçim veriyoruz.*  
-Marka Kimliği · UI/UX Tasarım · Sanat Yönetimi · Editoryal Tasarım
-
-**Teknoloji** — *Görünmez altyapıyı inşa ediyoruz.*  
-Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
+| Strateji | Tasarım | Teknoloji |
+|:---|:---|:---|
+| ***Belirsizliği netleştiriyoruz.***<br><br>Sürecin en başındaki kaos bizim oyun alanımızdır. Veriyle sezgiyi birleştiririz. | ***Düşünceye biçim veriyoruz.***<br><br>Fonksiyon estetiği takip etmez; estetik fonksiyonun kendisidir. | ***Görünmez altyapıyı inşa ediyoruz.***<br><br>En iyi teknoloji, varlığını hissettirmeyendir. Pürüzsüz, hızlı, güvenli. |
 
 <br>
 
@@ -118,7 +122,13 @@ Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
 
 ## Altyapı
 
-`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Node.js` · `PostgreSQL`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
 <br>
 
@@ -148,13 +158,11 @@ Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
 
 <br>
 
-**Keşfet:** Yaklaşım · İndeks · İletişim
-
-**Kurumsal:** Hakkımızda · Kariyer · Gizlilik · Yasal Uyarı
-
-**Takip Et:** [Instagram](https://instagram.com/wearehareki) · [Twitter](https://twitter.com/wearehareki) · [LinkedIn](https://linkedin.com/company/hareki)
-
-**Lokasyonlar:** Kavala Köşkü, İstanbul · Grand Pera, İstanbul · London Mayfair, UK
+| Keşfet | Kurumsal | Takip Et | Lokasyonlar |
+|:-------|:---------|:---------|:------------|
+| Yaklaşım | Hakkımızda | [Instagram](https://instagram.com/wearehareki) | Kavala Köşkü, İst. |
+| İndeks | Kariyer | [Twitter](https://twitter.com/wearehareki) | Grand Pera, İst. |
+| İletişim | Gizlilik | [LinkedIn](https://linkedin.com/company/hareki) | London Mayfair, UK |
 
 <br>
 
