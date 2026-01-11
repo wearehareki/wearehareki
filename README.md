@@ -265,10 +265,10 @@ Mersin
 
 <table width="100%">
 <tr>
-<td align="left" width="50%">
+<td align="left" width="420">
 hello@hareki.com
 </td>
-<td align="right" width="50%">
+<td align="right" width="420">
 <sub>© 2026 Hareki · Est. 2026</sub>
 </td>
 </tr>
