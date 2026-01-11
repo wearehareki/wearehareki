@@ -268,6 +268,7 @@ Mersin
 <td align="left">
 hello@hareki.com
 </td>
+<td width="300"></td>
 <td align="right">
 <sub>© 2026 Hareki · Est. 2026</sub>
 </td>
