@@ -1,63 +1,107 @@
 <div align="center">
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=3000&pause=999999&color=FFFFFFCC&center=true&vCenter=true&width=280&height=60&lines=hareki" alt="hareki">
-
-<br><br>
-
-<kbd>&nbsp;&nbsp;Systems&nbsp;&nbsp;</kbd>&nbsp;&nbsp;
-<kbd>&nbsp;&nbsp;Interfaces&nbsp;&nbsp;</kbd>&nbsp;&nbsp;
-<kbd>&nbsp;&nbsp;Brand&nbsp;&nbsp;</kbd>
-
 <br><br><br>
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="800">
-
-*Culture-aware digital systems that age well.*
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
 ```
-                    ─────────────────────────────────
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                          HAREKI                             │
+│                                                             │
+│                  Culture-aware digital systems              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
+<br>
+
 </div>
+
+---
+
+<br>
+
+<details open>
+<summary><strong>§ Editor's Note</strong></summary>
+
+<br>
+
+> This document serves as a reference point.  
+> It is not a pitch. It is not a portfolio.  
+> It is a system overview — written for those who read before they decide.
+
+<br>
+
+</details>
+
+---
+
+<br>
+
+<details open>
+<summary><strong>§ System Overview</strong></summary>
+
+<br>
+
+```
+We design and build digital systems where brand logic
+meets interface architecture. Our work sits at the
+intersection of culture awareness and technical depth.
+
+Not agencies. Not studios.
+A practice.
+```
+
+<br>
+
+</details>
+
+---
+
+<br>
+
+<details open>
+<summary><strong>§ Principles</strong></summary>
 
 <br>
 
 <table>
 <tr>
-<td width="160"><strong>Focus</strong></td>
-<td>
+<td width="50%">
 
-`Digital Systems` · `UI Engineering` · `Brand Interfaces` · `Design-Code Alignment`
+**01**  
+<sub>SILENCE OVER NOISE</sub>
+
+Interfaces should not compete for attention.  
+They should serve.
+
+</td>
+<td width="50%">
+
+**02**  
+<sub>SYSTEMS OVER PAGES</sub>
+
+A page is a symptom.  
+The system is the treatment.
 
 </td>
 </tr>
-</table>
-
-<br>
-
-<table>
 <tr>
-<td width="160"><strong>Principles</strong></td>
-<td>
+<td width="50%">
 
-```
-Silence over noise          Craft over velocity
-Systems over pages          Longevity over trends
-```
+**03**  
+<sub>CRAFT OVER VELOCITY</sub>
+
+Speed is a metric.  
+Quality is a position.
+
+</td>
+<td width="50%">
+
+**04**  
+<sub>LONGEVITY OVER TRENDS</sub>
+
+We build things that age well.  
+Not things that trend briefly.
 
 </td>
 </tr>
@@ -65,66 +109,100 @@ Systems over pages          Longevity over trends
 
 <br>
 
-<table>
-<tr>
-<td width="160"><strong>Stack</strong></td>
-<td>
+</details>
 
-**Interface** &nbsp; `TypeScript` `React` `Next.js`
-
-**Motion** &nbsp; `Framer Motion` `GSAP`
-
-**Systems** &nbsp; `Node` `Postgres` `Vercel`
-
-</td>
-</tr>
-</table>
+---
 
 <br>
 
-<div align="center">
-
-```
-                    ─────────────────────────────────
-```
-
-</div>
+<details open>
+<summary><strong>§ Capabilities</strong></summary>
 
 <br>
 
-<table>
-<tr>
-<td width="160"><strong>Selected</strong></td>
-<td>
-
-[`hareki.com`](https://github.com/wearehareki/hareki.com) — Brand system
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-```
-                    ─────────────────────────────────
-```
-
-</div>
+| Domain | Scope |
+|:--|:--|
+| **Systems** | Architecture · Structure · State |
+| **Interface** | Components · Motion · Interaction |
+| **Brand** | Identity alignment · Design language |
+| **Code** | TypeScript · React · Next.js |
 
 <br>
 
-<div align="center">
+</details>
 
-<sub>
+---
 
-[hareki.com](https://hareki.com) &nbsp;&nbsp;·&nbsp;&nbsp; [hello@hareki.com](mailto:hello@hareki.com)
+<br>
 
-</sub>
+<details open>
+<summary><strong>§ Current Signals</strong></summary>
 
-<br><br>
+<br>
 
-<sup>Istanbul</sup>
+```
+STATUS          Building internal systems
+FOCUS           Interface architecture
+MODE            Quiet
+```
 
-</div>
+<br>
+
+<sub>Last updated: 2026.Q1</sub>
+
+<br>
+
+</details>
+
+---
+
+<br>
+
+<details open>
+<summary><strong>§ Archive</strong></summary>
+
+<br>
+
+| Entry | Type |
+|:--|:--|
+| [`hareki.com`](https://github.com/wearehareki/hareki.com) | Brand system |
+
+<br>
+
+<sub>Additional entries appear as work becomes public.</sub>
+
+<br>
+
+</details>
+
+---
+
+<br>
+
+<details open>
+<summary><strong>§ Colophon</strong></summary>
+
+<br>
+
+```
+CONTACT         hello@hareki.com
+WEB             hareki.com
+LOCATION        Istanbul
+
+───────────────────────────────
+
+This document is part of a larger system.
+It updates when there is something to say.
+```
+
+<br>
+
+</details>
+
+<br>
+
+---
+
+<p align="center">
+<sub>© Hareki</sub>
+</p>
