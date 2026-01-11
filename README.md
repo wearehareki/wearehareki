@@ -160,10 +160,10 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <table width="100%">
 <tr>
-<th align="left" width="25%">Keşfet</th>
-<th align="left" width="25%">Kurumsal</th>
-<th align="left" width="25%">Takip Et</th>
-<th align="left" width="25%">Lokasyonlar</th>
+<th align="left" width="200">Keşfet</th>
+<th align="left" width="200">Kurumsal</th>
+<th align="left" width="200">Takip Et</th>
+<th align="left" width="200">Lokasyonlar</th>
 </tr>
 <tr>
 <td valign="top">
