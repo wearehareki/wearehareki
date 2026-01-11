@@ -247,9 +247,9 @@ Yasal Uyarı
 <a href="https://linkedin.com/company/hareki">LinkedIn</a>
 </td>
 <td valign="top">
-Kavala Köşkü, İst.<br>
-Grand Pera, İst.<br>
-London Mayfair, UK
+İstanbul<br>
+Ankara<br>
+Mersin
 </td>
 </tr>
 </table>
@@ -258,13 +258,13 @@ London Mayfair, UK
 
 ---
 
+<br>
+
 <div align="center">
 
 <br>
 
-hello@hareki.com
-
-<sub>© 2026 Hareki · Est. 2026 · İstanbul</sub>
+hello@hareki.com &nbsp;·&nbsp; <sub>© 2026 Hareki · Est. 2026</sub>
 
 <br>
 
