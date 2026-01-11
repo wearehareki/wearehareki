@@ -7,6 +7,6 @@
     </g>
   </g>
   <!-- hareki. text with black background -->
-  <rect x="36" y="0" width="94" height="32" rx="4" fill="#0d1117"/>
+  <rect x="36" y="0" width="94" height="32" rx="0" fill="#0d1117"/>
   <text x="38" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="30" font-weight="600" fill="white">hareki.</text>
 </svg>
