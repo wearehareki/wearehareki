@@ -2,21 +2,36 @@
 
 <br>
 
+<table>
+<tr>
+<td>
 <a href="https://hareki.com">
-  <img src="logo.svg" alt="hareki" width="80" height="80">
+<img src="logo.svg" alt="hareki" width="48" height="48">
 </a>
+</td>
+<td>
+<a href="https://hareki.com">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=140&height=48&lines=hareki.">
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=1a1a1a&vCenter=true&width=140&height=48&lines=hareki.">
+<img alt="hareki." src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=140&height=48&lines=hareki.">
+</picture>
+</a>
+</td>
+</tr>
+</table>
 
-<br><br>
-
-# hareki.
+<br>
 
 Kültür, teknoloji ve insan hikayelerinin kesişim noktası.
 
-<br>
+<br><br>
 
-[Yaklaşım](#yaklaşım) · [İndeks](#indeks) · [İletişim](#iletişim)
+<a href="#yaklaşım"><img src="https://img.shields.io/badge/Yaklaşım-1a1a1a?style=flat-square" alt="Yaklaşım"></a>&nbsp;&nbsp;
+<a href="#indeks"><img src="https://img.shields.io/badge/İndeks-1a1a1a?style=flat-square" alt="İndeks"></a>&nbsp;&nbsp;
+<a href="#iletişim"><img src="https://img.shields.io/badge/İletişim-1a1a1a?style=flat-square" alt="İletişim"></a>
 
-<br>
+<br><br>
 
 ---
 
@@ -240,29 +255,29 @@ Prototipleme
 
 **Keşfet**
 
-[Yaklaşım](#yaklaşım)  
-[İndeks](#indeks)  
-[İletişim](#iletişim)
+Yaklaşım  
+İndeks  
+İletişim
 
 **Kurumsal**
 
-[Hakkımızda](#hakkımızda)  
-[Kariyer](https://hareki.com/careers)  
-[Gizlilik](https://hareki.com/privacy)  
-[Yasal Uyarı](https://hareki.com/legal)
+Hakkımızda  
+Kariyer  
+Gizlilik  
+Yasal Uyarı
 
 </td>
 <td width="34%" valign="top">
 
 **Takip Et**
 
-[Instagram](https://instagram.com/wearehareki)  
-[Twitter](https://twitter.com/wearehareki)  
-[LinkedIn](https://linkedin.com/company/hareki)
+<a href="https://instagram.com/wearehareki"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
+<a href="https://twitter.com/wearehareki"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a><br>
+<a href="https://linkedin.com/company/hareki"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 **E-posta**
 
-[hello@hareki.com](mailto:hello@hareki.com)
+hello@hareki.com
 
 </td>
 <td width="33%" valign="top">
@@ -290,7 +305,7 @@ London, UK
 
 <br>
 
-[hello@hareki.com](mailto:hello@hareki.com)
+hello@hareki.com
 
 <sub>© 2026 Hareki · Est. 2026 · İstanbul</sub>
 
