@@ -158,11 +158,37 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 <br>
 
-| Keşfet | Kurumsal | Takip Et | Lokasyonlar |
-|:-------|:---------|:---------|:------------|
-| Yaklaşım | Hakkımızda | [Instagram](https://instagram.com/wearehareki) | Kavala Köşkü, İst. |
-| İndeks | Kariyer | [Twitter](https://twitter.com/wearehareki) | Grand Pera, İst. |
-| İletişim | Gizlilik | [LinkedIn](https://linkedin.com/company/hareki) | London Mayfair, UK |
+<table width="100%">
+<tr>
+<th align="left" width="25%">Keşfet</th>
+<th align="left" width="25%">Kurumsal</th>
+<th align="left" width="25%">Takip Et</th>
+<th align="left" width="25%">Lokasyonlar</th>
+</tr>
+<tr>
+<td valign="top">
+Yaklaşım<br>
+İndeks<br>
+İletişim
+</td>
+<td valign="top">
+Hakkımızda<br>
+Kariyer<br>
+Gizlilik<br>
+Yasal Uyarı
+</td>
+<td valign="top">
+<a href="https://instagram.com/wearehareki">Instagram</a><br>
+<a href="https://twitter.com/wearehareki">Twitter</a><br>
+<a href="https://linkedin.com/company/hareki">LinkedIn</a>
+</td>
+<td valign="top">
+Kavala Köşkü, İst.<br>
+Grand Pera, İst.<br>
+London Mayfair, UK
+</td>
+</tr>
+</table>
 
 <br>
 
