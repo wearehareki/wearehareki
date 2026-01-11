@@ -231,15 +231,15 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 </tr>
 <tr>
 <td valign="top">
-Yaklaşım<br>
-İndeks<br>
-İletişim
+<a href="https://hareki.com/#about">Yaklaşım</a><br>
+<a href="https://hareki.com/#work">İndeks</a><br>
+<a href="https://hareki.com/#contact">İletişim</a>
 </td>
 <td valign="top">
-Hakkımızda<br>
-Kariyer<br>
-Gizlilik<br>
-Yasal Uyarı
+<a href="https://hareki.com/about">Hakkımızda</a><br>
+<a href="https://hareki.com/careers">Kariyer</a><br>
+<a href="https://hareki.com/privacy">Gizlilik</a><br>
+<a href="https://hareki.com/legal">Yasal Uyarı</a>
 </td>
 <td valign="top">
 <a href="https://linkedin.com/company/hareki">LinkedIn</a><br>
