@@ -1,19 +1,13 @@
-<table width="100%">
-<tr>
-<td width="50%" valign="middle">
+<p>
 <a href="https://hareki.com">
-<img src="logo.svg" alt="hareki" width="36" height="36" align="left">
+<img src="logo.svg" alt="hareki" width="32" height="32" align="left">
 </a>
-&nbsp;&nbsp;
-<strong>hareki.</strong>
-</td>
-<td width="50%" align="right" valign="middle">
+&nbsp;&nbsp;<strong>hareki.</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#yaklaşım"><img src="https://img.shields.io/badge/Yaklaşım-1a1a1a?style=flat-square" alt="Yaklaşım"></a>&nbsp;
 <a href="#indeks"><img src="https://img.shields.io/badge/İndeks-1a1a1a?style=flat-square" alt="İndeks"></a>&nbsp;
 <a href="#iletişim"><img src="https://img.shields.io/badge/İletişim-1a1a1a?style=flat-square" alt="İletişim"></a>
-</td>
-</tr>
-</table>
+</p>
 
 <br>
 
@@ -52,36 +46,11 @@ Dijital zanaatkarlığa entelektüel bir yaklaşım. Sadece web siteleri veya ma
 
 **Hareki, 2026'da, dijital dünyanın gürültüsüne karşı bir tepki olarak kuruldu.**
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
 Biz, markaların ve kurumların hikayelerini anlatırken sadelik ve derinliği ön planda tutan bağımsız bir kreatif stüdyoyuz. Kalabalık internet ortamında, bağıran tasarımların değil, fısıldayan ve akılda kalan deneyimlerin gücüne inanıyoruz.
 
 Yaklaşımımız akademiktir; her projeye bir araştırma tezi titizliğiyle başlarız. Tasarımımız zanaatkardır; her pikseli ve boşluğu bir anlam ifade edecek şekilde yerleştiririz. Teknolojimiz ise görünmezdir; karmaşık altyapıları pürüzsüz kullanıcı deneyimlerine dönüştürürüz.
 
-</td>
-<td width="5%"></td>
-<td width="30%" valign="top">
-
-**Disiplinler**
-
-Marka Stratejisi  
-Pazar Araştırması  
-İçerik Stratejisi  
-Sosyal Medya Stratejisi  
-Marka Kimliği  
-UI/UX Tasarım  
-Sanat Yönetimi  
-Editoryal Tasarım  
-Web Geliştirme  
-Kod Geliştirme  
-Dijital Deneyim  
-Prototipleme
-
-</td>
-</tr>
-</table>
+**Disiplinler:** Marka Stratejisi · Pazar Araştırması · İçerik Stratejisi · Sosyal Medya Stratejisi · Marka Kimliği · UI/UX Tasarım · Sanat Yönetimi · Editoryal Tasarım · Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
 
 <br>
 
@@ -115,46 +84,14 @@ Bizim için en iyi işler, anlatacak bir hikâyesi olan ve bu hikâyeye zaman ta
 
 ## Metodoloji
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+**Strateji** — *Belirsizliği netleştiriyoruz.*  
+Marka Stratejisi · Pazar Araştırması · İçerik Stratejisi · Sosyal Medya Stratejisi
 
-**Strateji**
+**Tasarım** — *Düşünceye biçim veriyoruz.*  
+Marka Kimliği · UI/UX Tasarım · Sanat Yönetimi · Editoryal Tasarım
 
-*Belirsizliği netleştiriyoruz.*
-
-Marka Stratejisi  
-Pazar Araştırması  
-İçerik Stratejisi  
-Sosyal Medya Stratejisi
-
-</td>
-<td width="34%" valign="top">
-
-**Tasarım**
-
-*Düşünceye biçim veriyoruz.*
-
-Marka Kimliği  
-UI/UX Tasarım  
-Sanat Yönetimi  
-Editoryal Tasarım
-
-</td>
-<td width="33%" valign="top">
-
-**Teknoloji**
-
-*Görünmez altyapıyı inşa ediyoruz.*
-
-Web Geliştirme  
-Kod Geliştirme  
-Dijital Deneyim  
-Prototipleme
-
-</td>
-</tr>
-</table>
+**Teknoloji** — *Görünmez altyapıyı inşa ediyoruz.*  
+Web Geliştirme · Kod Geliştirme · Dijital Deneyim · Prototipleme
 
 <br>
 
@@ -164,50 +101,14 @@ Prototipleme
 
 ## İndeks
 
-<table width="100%">
-<tr>
-<th align="left" width="30%">Müşteri</th>
-<th align="left" width="35%">Proje</th>
-<th align="left" width="20%">Disiplin</th>
-<th align="left" width="15%">Yıl</th>
-</tr>
-<tr>
-<td>Noveau Gallery</td>
-<td>Exhibition 09</td>
-<td>Sanat Yönetimi</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Vestra Foundation</td>
-<td>Cultural Map</td>
-<td>Marka Stratejisi</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Kolektif House</td>
-<td>Digital Workspace</td>
-<td>UI/UX Tasarım</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Base Istanbul</td>
-<td>Artist Series</td>
-<td>İçerik Stratejisi</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Mono Architectural</td>
-<td>Silence in Space</td>
-<td>Görsel Kimlik</td>
-<td>2023</td>
-</tr>
-<tr>
-<td>Atlas Publishing</td>
-<td>The New Archive</td>
-<td>Web Geliştirme</td>
-<td>2023</td>
-</tr>
-</table>
+| Müşteri | Proje | Disiplin | Yıl |
+|:--------|:------|:---------|:----|
+| Noveau Gallery | Exhibition 09 | Sanat Yönetimi | 2024 |
+| Vestra Foundation | Cultural Map | Marka Stratejisi | 2024 |
+| Kolektif House | Digital Workspace | UI/UX Tasarım | 2024 |
+| Base Istanbul | Artist Series | İçerik Stratejisi | 2024 |
+| Mono Architectural | Silence in Space | Görsel Kimlik | 2023 |
+| Atlas Publishing | The New Archive | Web Geliştirme | 2023 |
 
 <br>
 
@@ -247,61 +148,13 @@ Prototipleme
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="left">
+**Keşfet:** Yaklaşım · İndeks · İletişim
 
-**Keşfet**
+**Kurumsal:** Hakkımızda · Kariyer · Gizlilik · Yasal Uyarı
 
-Yaklaşım  
-İndeks  
-İletişim
+**Takip Et:** [Instagram](https://instagram.com/wearehareki) · [Twitter](https://twitter.com/wearehareki) · [LinkedIn](https://linkedin.com/company/hareki)
 
-<br>
-
-**Kurumsal**
-
-Hakkımızda  
-Kariyer  
-Gizlilik  
-Yasal Uyarı
-
-</td>
-<td width="34%" valign="top" align="left">
-
-**Takip Et**
-
-<a href="https://instagram.com/wearehareki"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
-<a href="https://twitter.com/wearehareki"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a><br>
-<a href="https://linkedin.com/company/hareki"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<br>
-
-**E-posta**
-
-hello@hareki.com
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**Lokasyonlar**
-
-Kavala Köşkü  
-Kadıköy, İstanbul
-
-<br>
-
-Grand Pera  
-Beyoğlu, İstanbul
-
-<br>
-
-London Mayfair  
-London, UK
-
-</td>
-</tr>
-</table>
+**Lokasyonlar:** Kavala Köşkü, İstanbul · Grand Pera, İstanbul · London Mayfair, UK
 
 <br>
 
